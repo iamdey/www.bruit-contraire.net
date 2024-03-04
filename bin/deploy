@@ -15,4 +15,4 @@ if [ -z ${RSYNC_TARGET+x} ]; then
   exit 1
 fi
 
-rsync -av --delete-after ./build $RSYNC_TARGET
+rsync -av --delete-after ./build/ $RSYNC_TARGET
