@@ -1,5 +1,5 @@
 ---
-title: David Epely
+title: À propos
 ---
 
 ## À propos
