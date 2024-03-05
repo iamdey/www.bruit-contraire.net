@@ -58,6 +58,11 @@ const config: Config = {
       items: [
         { to: '/about', label: 'À propos', position: 'left' },
         {
+          href: 'https://www.doyoubuzz.com/david-epely',
+          label: 'CV',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/iamdey/www.bruit-contraire.net',
           position: 'right',
           className: 'header-github-link',
