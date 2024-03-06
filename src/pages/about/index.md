@@ -22,7 +22,7 @@ J'aime partager ce que je fais et il m'arrive d'écrire des
 [documents techniques](https://blog.gandi.net/en/posts/form-lib-comparison/).
 
 Je suis papa². Je fais du vélo et du skateboard. J'aime voyager, rencontrer des
-gens mais je prends plus l'avion (par soucis de cohérence).
+gens mais je ne prends plus l'avion (par soucis de cohérence).
 
 Je suis joignable sur [@dey@mastodon.xyz](https://mastodon.xyz/@dey) ou
 contact - at - bruit-contraire.net
