@@ -47,11 +47,11 @@ GNU/Linux que sur Windows (une fois
 
 J'ai tout de même fait une erreur pendant l'assemblage, la fiche USB sur les
 arduinos est très fragile. N'ayant pas utilisé le boitier imprimé en 3D, ni le
-boitier en bambou usiné par falbatch, il n'y avait pas de garde fou. À force de
-bouger le clavier pour le nettoyer (tapoter dessus pour faire tomber la
-poussière), j'ai arraché la prise. J'ai donc dû dessouder et remplacer un des
-deux arduinos (le principal), c'était un peu moche comme opération mais ça m'a
-montré à quel point j'en suis accroc.
+boitier en bambou usiné par falbatech, il n'y avait pas de garde fou. À force de
+bouger le clavier pour le nettoyer (c'est à dire tapoter dessus pour faire
+tomber la poussière), j'ai arraché la prise. J'ai donc dû dessouder et remplacer
+un des deux arduinos (le principal), c'était un peu moche comme opération mais
+ça m'a montré à quel point j'en suis accroc.
 
 ![Photo de la PCB et de l'arduino une fois déssoudé. On voit une pompe à déssouder en arrièer plan](./20201207_093308.jpg)
 
