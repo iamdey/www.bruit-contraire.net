@@ -12,8 +12,8 @@ lead developer pour Gandi, le registrar de nom de domaines. Je code
 principalement en javascript (typé) mais je m'essaie à d'autres langages et
 d'autres technologies que le web.
 
-J'ai une conscience écologique, je suis lucide sur les enjeux climatique que les
-humains traversent actuellement et devront traverser, de même que pour les
+J'ai une conscience écologique, je suis lucide sur les enjeux climatiques que
+les humains traversent actuellement et devront traverser, de même que pour les
 aspects sociaux. C'est ce que j'essai de retranscrire dans mon travail et dans
 mon rapport aux autres. J'encourage la sobriété
 (_[2 tonnes mec!](https://nosgestesclimat.fr/)_).
